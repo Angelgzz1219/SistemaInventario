@@ -36,6 +36,6 @@ El usuario puede:
 
 ## Autor
 
-Nombre: Tu Nombre  
+Nombre: Angel E Gonzalez A
 Materia: Programación Orientada a Objetos  
 Actividad: Actividad Formativa 4 - Proyecto Final
